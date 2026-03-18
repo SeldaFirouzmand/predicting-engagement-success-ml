@@ -24,6 +24,6 @@ To understand how early persuasion signals and algorithmic amplification influen
 2. Run all cells
 
 ## Authors
-Selda Firouzmand
-Zahra gharehdaghi
-Nafiseh Rezaei
+- Selda Firouzmand
+- Zahra gharehdaghi
+- Nafiseh Rezaei
