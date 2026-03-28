@@ -16,8 +16,17 @@ These results suggest that algorithmic amplification alone is a weak predictor o
 
 ## Figures
 
-### Model Comparison (Pre vs Amplification vs Combined)
-![Stage 2 Comparison](./all_figures/p2_compare_r2_nested.png)
+### Model Comparison (R²)
+![Stage 2 Comparison](./all_figures/7.png)
 
-### Best Model per Condition
-![Best Model](./all_figures/p2_best_model_per_condition_nested.png)
+### Model Comparison (RMSE)
+![Stage 2 RMSE](./all_figures/8.png)
+
+### Combined Model Prediction
+![Best Model](./all_figures/9.png)
+
+### Combined Model Residuals
+![Residuals](./all_figures/10.png)
+
+### Feature Stability
+![Feature Stability](./all_figures/11.png)
