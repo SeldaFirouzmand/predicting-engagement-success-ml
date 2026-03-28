@@ -17,10 +17,19 @@ The results suggest that user-driven signals such as likes, comments, and engage
 ## Figures
 
 ### Model Performance (R² Comparison)
-![Stage 1 Model Performance](./all_figures/p1_model_r2_nested.png)
+![Stage 1 Model Performance](./all_figures/1.png)
 
 ### Model Performance (RMSE)
-![Stage 1 RMSE](./all_figures/p1_model_rmse_nested.png)
+![Stage 1 RMSE](./all_figures/2.png)
 
 ### Prediction vs Actual
-![Prediction](./all_figures/p1_oof_pred_vs_actual_nested.png)
+![Prediction](./all_figures/3.png)
+
+### Residuals
+![Residuals](./all_figures/4.png)
+
+### Feature Stability
+![Feature Stability](./all_figures/5.png)
+
+### Feature Importance
+![Feature Importance](./all_figures/6.png)
