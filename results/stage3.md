@@ -16,23 +16,25 @@ The results indicate that algorithmic amplification does not significantly media
 
 ## Figures
 
+## Figures
+
 ### Mediation Model Comparison (R²)
-![Stage 3 Comparison](./all_figures/21.png) 
+![Stage 3 Comparison](./all_figures/18.png)
 
 ### Mediation Model Comparison (RMSE)
-![Stage 3 RMSE](./all_figures/14.png)
+![Stage 3 RMSE](./all_figures/19.png)
 
 ### Stage 2A Prediction
-![Stage 2A Prediction](./all_figures/15.png)
+![Stage 2A Prediction](./all_figures/20.png)
 
 ### Stage 2B Prediction
-![Stage 2B Prediction](./all_figures/16.png)
+![Stage 2B Prediction](./all_figures/21.png)
 
 ### Stage 2B Residuals
-![Stage 2B Residuals](./all_figures/17.png)
+![Stage 2B Residuals](./all_figures/22.png)
 
 ### Stage 2A Feature Stability
-![Stage 2A Feature Stability](./all_figures/18.png)
+![Stage 2A Feature Stability](./all_figures/23.png)
 
 ### Stage 2B Feature Stability
-![Stage 2B Feature Stability](./all_figures/19.png)
+![Stage 2B Feature Stability](./all_figures/24.png)
