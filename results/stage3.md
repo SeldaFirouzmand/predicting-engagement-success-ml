@@ -16,8 +16,6 @@ The results indicate that algorithmic amplification does not significantly media
 
 ## Figures
 
-## Figures
-
 ### Mediation Model Comparison (R²)
 ![Stage 3 Comparison](./all_figures/18.png)
 
