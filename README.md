@@ -9,7 +9,7 @@ This project predicts social media engagement success using machine learning.
 
 ## GitHub repository containing thesis paper, source code, machine learning models, figures, and project results.
 
-GitHub: https://github.com/SeldaFirouzmand/predicting-engagement-success-m
+GitHub: https://github.com/SeldaFirouzmand/predicting-engagement-success-ml
 
 
 ## Objective
