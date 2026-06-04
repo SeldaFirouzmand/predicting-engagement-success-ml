@@ -4,6 +4,14 @@ Machine learning project that predicts social media engagement success using ear
 ## Project Overview
 This project predicts social media engagement success using machine learning.
 
+## Thesis Paper
+[Read the full thesis paper](Master_Thesis_Predicting_Engagement_Success.pdf)
+
+## GitHub repository containing thesis paper, source code, machine learning models, figures, and project results.
+
+GitHub: https://github.com/SeldaFirouzmand/predicting-engagement-success-m
+
+
 ## Objective
 To understand how early persuasion signals and algorithmic amplification influence engagement.
 
